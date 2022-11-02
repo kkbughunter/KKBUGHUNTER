@@ -5,7 +5,7 @@
 
 
 ### Visitor Count 👇<br>
-![](https://profile-counter.glitch.me/KKBUGHUNTER/count.svg) in 1/11/2022
+![](https://profile-counter.glitch.me/KKBUGHUNTER/count.svg) starts in 1/11/2022
 
 
 
