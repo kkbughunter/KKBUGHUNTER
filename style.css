@@ -1,0 +1,51 @@
+body{
+    background-color: #ffffff;
+}
+.myimage img {
+    max-width: 85%;
+    height: 100%;
+    flex-basis: 40%
+}
+.item img  {
+    max-width: 85%;
+    height: 100%;
+    flex-basis: 40%
+}
+.aboutlable{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    background-color: #33509f;
+    border-radius: 15px 50px;
+}
+
+.text{
+    padding-left: 10%;
+    padding-top: 13%;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+}
+
+
+ .text1 h1 {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid orange; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+      typing 3.5s steps(40, end),
+      blink-caret .75s step-end infinite;
+  }
+  
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+  }
