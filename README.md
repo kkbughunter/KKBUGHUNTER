@@ -1,4 +1,4 @@
-## Hi My Friends 👋
+## Hi My Friend 👋
 Use this page only for reference.
 
 
