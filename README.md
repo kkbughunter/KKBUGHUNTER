@@ -5,8 +5,11 @@ Use this page only for reference.
 ![](https://github.com/KKBUGHUNTER/KKBUGHUNTER/blob/output/github-contribution-grid-snake.svg)
 
 
-
-# College Work 🧑‍🎓 
+ <div align="right"> 
+  <a src="https://kkbughunter.github.io/web/", arc="web page">  </a>
+</div>
+ 
+# College Work 🧑‍🎓                                                   
 ### Semester  1️⃣  rating ⭐⭐⭐✴️✴️
   1. [Problem Solving and Programming in Python](https://github.com/KKBUGHUNTER/Problem-Solving-and-Programming-in-Python) <br>
         Project : [YouTube Video Downloader](https://github.com/KKBUGHUNTER/Python_YouTube_Video_Downloader)
@@ -17,16 +20,14 @@ Use this page only for reference.
   1. [Object Oriented Programming Java](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java)<br>
         Project : Loading....
   2. [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure)<br>
-        Mini Project : Loading....
- 
- 
+        Mini Project : Loading
+        
+        
+        
+### Visitor Count 👇 <br>
 
-
-# 🙂                                         ...Thank you...
-
-<div align=center> 
-<strong> Visitor Count 👇</strong><br>
-
-![](https://profile-counter.glitch.me/KKBUGHUNTER/count.svg)<br>
+![](https://profile-counter.glitch.me/KKBUGHUNTER/count.svg)
 starts in 1/11/2022
-</div>
+
+
+# TO More ⏬ ⬇️
