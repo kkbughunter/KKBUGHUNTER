@@ -4,8 +4,7 @@ Use this page only for reference.
 
 ![](https://github.com/KKBUGHUNTER/KKBUGHUNTER/blob/output/github-contribution-grid-snake.svg)
 
-### Visitor Count 👇<br>
-![](https://profile-counter.glitch.me/KKBUGHUNTER/count.svg) starts in 1/11/2022
+
 
 # College Work 🧑‍🎓 
 ### Semester  1️⃣  rating ⭐⭐⭐⭐ 
@@ -24,4 +23,10 @@ Use this page only for reference.
 
 
 # 🙂                                         ...Thank you...
-https://github.com/KKBUGHUNTER/Data-Structure
+
+<div align=center> 
+<strong> Visitor Count 👇</strong><br>
+
+![](https://profile-counter.glitch.me/KKBUGHUNTER/count.svg)<br>
+starts in 1/11/2022
+</div>
