@@ -7,10 +7,10 @@ Use this page only for reference.
 
 
 # College Work 🧑‍🎓 
-### Semester  1️⃣  rating ⭐⭐⭐⭐ 
+### Semester  1️⃣  rating ⭐⭐⭐✴️✴️
   1. [Problem Solving and Programming in Python](https://github.com/KKBUGHUNTER/Problem-Solving-and-Programming-in-Python) <br>
         Project : [YouTube Video Downloader](https://github.com/KKBUGHUNTER/Python_YouTube_Video_Downloader)
-### Semester  2️⃣  rating ⭐⭐⭐
+### Semester  2️⃣  rating ⭐⭐⭐⭐✴️
   1. [Fundamentals and Practice of Software Development](https://github.com/KKBUGHUNTER/Fundamentals-and-Practice-of-Software-Development)<br>
         Project : [Exam_TimeTable_Schedulier](https://github.com/KKBUGHUNTER/Exam_TimeTable_Schedulier)
 ### Semester  3️⃣  rating Loading....
