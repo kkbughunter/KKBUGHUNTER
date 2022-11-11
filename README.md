@@ -43,6 +43,6 @@ competitive programming : [ALL 🖥️](https://github.com/KKBUGHUNTER/competiti
 starts in 1/11/2022
 
 
-# FOR More ⏬ ⬇️</div>
+# FOR More ⏬</div>
         
 
