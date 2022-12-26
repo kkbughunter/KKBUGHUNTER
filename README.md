@@ -27,7 +27,7 @@ Use this page only for reference.
 
         
 # My Self 👦
-competitive programming : [ALL 🖥️](https://github.com/KKBUGHUNTER/competitive-programming)
+competitive programming :🖥️
    1. CodeChef ⭐✴️✴️✴️✴️✴️✴️<br>
    2. Codeforces newbie
 <!-- Aim ✈️ : Cyber security(Web developer)<br> -->
