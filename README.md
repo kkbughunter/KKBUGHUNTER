@@ -30,7 +30,7 @@ Use this page only for reference.
 competitive programming :🖥️
    1. CodeChef ⭐✴️✴️✴️✴️✴️✴️<br>
    2. Codeforces newbie
-<!-- Aim ✈️ : Cyber security(Web developer)<br> -->
+<!-- Aim ✈️ : Cyber security(App Developer)<br> -->
 
 
 
@@ -43,6 +43,6 @@ competitive programming :🖥️
 starts in 1/11/2022
 
 
-# ⏬FOR More ⏬</div>
+# [⏬ FOR More ⏬](https://github.com/KKBUGHUNTER?tab=repositories)</div>
         
 
