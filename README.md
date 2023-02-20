@@ -11,18 +11,18 @@ Use this page only for reference.
  
 </div>
  
-# College Work 🧑‍🎓                                                   
+<!-- # College Work 🧑‍🎓                                                   
 ### Semester  1️⃣  rating ⭐⭐⭐✴️✴️
   1. [Problem Solving and Programming in Python](https://github.com/KKBUGHUNTER/Problem-Solving-and-Programming-in-Python) <br>
         Project : [YouTube Video Downloader](https://github.com/KKBUGHUNTER/Python_YouTube_Video_Downloader)
 ### Semester  2️⃣  rating ⭐⭐⭐⭐✴️
   1. [Fundamentals and Practice of Software Development](https://github.com/KKBUGHUNTER/Fundamentals-and-Practice-of-Software-Development)<br>
         Project : [Exam_TimeTable_Schedulier](https://github.com/KKBUGHUNTER/Exam_TimeTable_Schedulier)
-### Semester  3️⃣  ⭐⭐⭐✴️✴️
+### Semester  3️⃣  ⭐⭐⭐⭐✴✴️
   1. [Object Oriented Programming Java](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java)<br>
         Project : Loading....
   2. [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure)<br>
-        Mini Project : solving CP problems 
+        Mini Project : solving CP problems  -->
 
 
         
