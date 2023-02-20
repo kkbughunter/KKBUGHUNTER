@@ -32,7 +32,6 @@ competitive programming :🖥️
    2. Codeforces newbie
 <!-- Aim ✈️ : Cyber security(App Developer)<br> -->
 
- -->
 
 
 <div align="center">
