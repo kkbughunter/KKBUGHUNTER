@@ -11,7 +11,7 @@ Use this page only for reference.
  
 </div>
  
-<!-- # College Work 🧑‍🎓                                                   
+# College Work 🧑‍🎓                                                   
 ### Semester  1  rating ⭐⭐⭐✴️✴️
   1. [Problem Solving and Programming in Python](https://github.com/KKBUGHUNTER/Problem-Solving-and-Programming-in-Python) <br>
         Project : [YouTube Video Downloader](https://github.com/KKBUGHUNTER/Python_YouTube_Video_Downloader)
@@ -24,13 +24,21 @@ Use this page only for reference.
   2. [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure)<br>
         Mini Project : solving CP problems 
 ### Semester  4
+| [!Course Image]() |
+| --------------- |
+| [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure) |
+      
+      
+[![Course Image]([https://example.com/course-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prepbytes.com%2Fblog%2Fdata-structure%2F&psig=AOvVaw1rDDxT3UJrcnx-UqeImcJ5&ust=1677520466825000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCrq_Xgs_0CFQAAAAAdAAAAABAD)]([https://example.com/course](https://github.com/KKBUGHUNTER/Data-Structure))
 
-<!--         
+
+      
+      
 # My Self 👦
-competitive programming :🖥️
-   1. CodeChef ⭐✴️✴️✴️✴️✴️✴️<br>
-   2. Codeforces newbie
-<!-- Aim ✈️ : Cyber security(App Developer)<br> -->
+Aim ✈️ : Cyber security(App Developer)<br>
+competitive programming(CP) 🖥️ : CodeChef ⭐✴️✴️✴️✴️✴️✴️<br>
+
+
 
 
 
