@@ -24,7 +24,7 @@ Use this page only for reference.
 |<a href="https://github.com/KKBUGHUNTER/Data-Structure"><img src="https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644826783284-3.%20Data%20Structures.png" alt="DS" style="height: 200px; width:350px;"/></a>|<a href="https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java"><img src="https://liongueststudios.com/wp-content/uploads/2021/01/Object-Oriented-Programming-concepts-in-java-lionguest-studios.png" alt="OOPs-JAVA" style="height: 200px; width:350px;"/></a>|
 | --------------- | -------------- |
 | [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure) | [Object Oriented Programming Java](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java)|
-| solving CP problems  | [Object Oriented Programming Java](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java)|
+| Project: solving CP problems  | PROJECT :[Object Oriented Programming Java](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java)|
 
       
 
