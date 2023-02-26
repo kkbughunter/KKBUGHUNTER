@@ -21,19 +21,17 @@ Use this page only for reference.
 ### Semester  3  ⭐⭐⭐⭐✴✴️
   1. [Object Oriented Programming Java](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java)<br>
         Project : Loading....
-  2. [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure)<br>
+  2. [Data Structure using C]()<br>
         Mini Project : solving CP problems 
 ### Semester  4
-| [!Course Image]() |
-| --------------- |
-| [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure) |
+|<a href="https://github.com/KKBUGHUNTER/Data-Structure"><img src="https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644826783284-3.%20Data%20Structures.png" alt="DS" style="height: 200px; width:350px;"/></a>|<img src="https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644826783284-3.%20Data%20Structures.png" alt="DS" style="height: 200px; width:350px;"/>|
+| --------------- | -------------- |
+| [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure) | |
       
-      
-[![Course Image]([https://example.com/course-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prepbytes.com%2Fblog%2Fdata-structure%2F&psig=AOvVaw1rDDxT3UJrcnx-UqeImcJ5&ust=1677520466825000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCrq_Xgs_0CFQAAAAAdAAAAABAD)]([https://example.com/course](https://github.com/KKBUGHUNTER/Data-Structure))
-
 
       
-      
+
+
 # My Self 👦
 Aim ✈️ : Cyber security(App Developer)<br>
 competitive programming(CP) 🖥️ : CodeChef ⭐✴️✴️✴️✴️✴️✴️<br>
