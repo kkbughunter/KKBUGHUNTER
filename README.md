@@ -1,15 +1,16 @@
 ## Hi My Friend 👋
+Use this page only for reference.
+
+
+
+# College Work 🧑‍🎓   
+
 <div align="right">
 
  [🌐 web page ](https://kkbughunter.github.io/web/)
  
 </div>
 
-Use this page only for reference.
-
-
-
-# College Work 🧑‍🎓                                                   
 ## Semester  1  rating ⭐⭐⭐✴️✴️
 |<a href="https://github.com/KKBUGHUNTER/Fundamentals-and-Practice-of-Software-Development](https://github.com/KKBUGHUNTER/Problem-Solving-and-Programming-in-Python"><img src="https://user-images.githubusercontent.com/91019132/221458158-001f2478-f599-4381-9f4f-c31d7c093997.png" alt="DS" style="height: 200px; width:350px;"/></a>|
 | --------------- |
