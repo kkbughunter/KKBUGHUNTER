@@ -13,11 +13,19 @@ Use this page only for reference.
  
 # College Work 🧑‍🎓                                                   
 ### Semester  1  rating ⭐⭐⭐✴️✴️
-  1. [Problem Solving and Programming in Python](https://github.com/KKBUGHUNTER/Problem-Solving-and-Programming-in-Python) <br>
-        Project : [YouTube Video Downloader](https://github.com/KKBUGHUNTER/Python_YouTube_Video_Downloader)
+|<a href="https://github.com/KKBUGHUNTER/Fundamentals-and-Practice-of-Software-Development](https://github.com/KKBUGHUNTER/Problem-Solving-and-Programming-in-Python"><img src="https://user-images.githubusercontent.com/91019132/221458158-001f2478-f599-4381-9f4f-c31d7c093997.png" alt="DS" style="height: 200px; width:350px;"/></a>|
+| --------------- |
+| [Problem Solving and Programming in Python]([https://github.com/KKBUGHUNTER/Fundamentals-and-Practice-of-Software-Development](https://github.com/KKBUGHUNTER/Problem-Solving-and-Programming-in-Python)) |
+| Project: [YouTube Video Downloader](https://github.com/KKBUGHUNTER/Python_YouTube_Video_Downloader)|
+
+
 ### Semester 2  rating ⭐⭐⭐⭐✴️
-  1. [Fundamentals and Practice of Software Development](https://github.com/KKBUGHUNTER/Fundamentals-and-Practice-of-Software-Development)<br>
-        Project : [Exam_TimeTable_Schedulier](https://github.com/KKBUGHUNTER/Exam_TimeTable_Schedulier) -->
+|<a href="https://github.com/KKBUGHUNTER/Fundamentals-and-Practice-of-Software-Development"><img src="https://user-images.githubusercontent.com/91019132/221457027-fb3e923f-bbfa-433a-8883-fc8fa1950db5.png" alt="DS" style="height: 200px; width:350px;"/></a>|
+| --------------- |
+| [Fundamentals and Practice of Software Development](https://github.com/KKBUGHUNTER/Fundamentals-and-Practice-of-Software-Development) |
+| Project: [Exam_TimeTable_Schedulier](https://github.com/KKBUGHUNTER/Exam_TimeTable_Schedulier)|
+
+
 ### Semester  3  ⭐⭐⭐⭐✴✴️
 |<a href="https://github.com/KKBUGHUNTER/Data-Structure"><img src="https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644826783284-3.%20Data%20Structures.png" alt="DS" style="height: 200px; width:350px;"/></a>|<a href="https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java"><img src="https://liongueststudios.com/wp-content/uploads/2021/01/Object-Oriented-Programming-concepts-in-java-lionguest-studios.png" alt="OOPs-JAVA" style="height: 200px; width:350px;"/></a>|
 | --------------- | -------------- |
