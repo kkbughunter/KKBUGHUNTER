@@ -3,7 +3,7 @@ Use this page only for reference.
 
 
 
-# College Work 🧑‍🎓   
+# <img src="https://media.tenor.com/D0HudzUqizwAAAAC/new-flashy.gif" alt="DS" style="height: 50px; width:50px;"/> College Work 🧑‍🎓 
 
 <div align="right">
 
@@ -37,7 +37,7 @@ Use this page only for reference.
 
 
 
-![](https://github.com/KKBUGHUNTER/KKBUGHUNTER/blob/output/github-contribution-grid-snake.svg)
+![My Work](https://github.com/KKBUGHUNTER/KKBUGHUNTER/blob/output/github-contribution-grid-snake.svg)
 
 
 <!-- # My Self 👦
