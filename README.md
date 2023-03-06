@@ -43,6 +43,12 @@ Use this page only for reference.
 ![My Work](https://github.com/KKBUGHUNTER/KKBUGHUNTER/blob/output/github-contribution-grid-snake.svg)
 
 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
+ <img src="https://streak-stats.demolab.com/?user=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
+</div>
+
 <!-- # My Self 👦
 Aim ✈️ : Cyber security(App Developer)<br>
 competitive programming(CP) 🖥️ : CodeChef ⭐✴️✴️✴️✴️✴️✴️<br>
