@@ -3,7 +3,7 @@ Use this page only for reference.
 
 
 
-# <img src="https://media.tenor.com/D0HudzUqizwAAAAC/new-flashy.gif" alt="DS" style="height: 50px; width:50px;"/> College Work 🧑‍🎓 
+# College Work 🧑‍🎓 
 
 <div align="right">
 
