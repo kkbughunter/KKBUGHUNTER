@@ -4,7 +4,7 @@ Use this page only for reference.
 
 
 # College Work 🧑‍🎓 
-
+<!--
 <div align="right">
 
  [🌐 web page ](https://kkbughunter.github.io/web/)
@@ -30,7 +30,7 @@ Use this page only for reference.
 | --------------- | -------------- |
 | [Data Structure using C](https://github.com/KKBUGHUNTER/Data-Structure) | [Object Oriented Programming Java](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java)|
 | Project: solving CP problems  | PROJECT :[Object Oriented Programming Java](https://github.com/KKBUGHUNTER/Object-Oriented-Programming-Java)|
-
+-->
 
 ## Semester 4 loading....
 |<a href="https://github.com/KKBUGHUNTER/Design_and_Analysis_of_Algorithms"><img src="https://user-images.githubusercontent.com/91019132/222510985-6e3101ce-9ffb-425d-a8d5-2fd29d6466d6.png" alt="DAA" style="height: 200px; width:350px;"/></a>|<a href="https://github.com/KKBUGHUNTER/Database_Management_Systems"><img src="https://user-images.githubusercontent.com/91019132/222511994-7a28b818-a0e4-45ae-a6fc-873b211a1079.png" alt="DBMS" style="height: 200px; width:350px;"/></a>|<a href="https://github.com/KKBUGHUNTER/Operating_Systems"><img src="https://user-images.githubusercontent.com/91019132/222513066-c564a81d-99cf-41b3-85d4-dd68770b0421.png" alt="OS" style="height: 200px; width:350px;"/></a>|
