@@ -6,7 +6,7 @@ Use this page only for reference.
 # College Work 🧑‍🎓 
 
 <div align="right">
-<a src="https://kkbughunter.github.io/web/" target="_blank" rel="noopener noreferrer">🌐 web page </a>
+<a href="https://kkbughunter.github.io/web/" target="_blank">🌐 web page </a>
 
  
 </div>
