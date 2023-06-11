@@ -24,8 +24,8 @@ Use this page only for reference.
 
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
- <img src="https://streak-stats.demolab.com/?user=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
+<!--    <img src="https://github-readme-stats.vercel.app/api?username=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" /> -->
+ <img src="https://streak-stats.demolab.com/?user=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" /> <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
 </div>
 
