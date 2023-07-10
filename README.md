@@ -1,14 +1,8 @@
-## Hi My Friend 👋
-Use this page only for reference.
-[Flutter]([https://kkbughunter.github.io/zenith_hackathon_sk/](https://github.com/KKBUGHUNTER/Flutter))
-
-
 # College Work 🧑‍🎓 
 
 <div align="right">
 <a href="https://kkbughunter.github.io/web/" target="_top" rel="noopener noreferrer">🌐 web page </a>
 
- 
 </div>
 
 
@@ -34,7 +28,6 @@ Aim ✈️ : Cyber security(App Developer)<br>
 competitive programming(CP) 🖥️ : CodeChef ⭐✴️✴️✴️✴️✴️✴️<br> -->
 
 # My Experience 
-
 | Project Name | Start - End Date | Team       | More info  | Other      |
 |--------------|------------------|------------|------------|------------|
 | [YouTube Video Downloader](https://github.com/KKBUGHUNTER/Python_YouTube_Video_Downloader) | Jun 12-2022 to July 5-2022 | self | Semester I python course project  | 4 |
@@ -42,12 +35,16 @@ competitive programming(CP) 🖥️ : CodeChef ⭐✴️✴️✴️✴️✴️
 | [Zanith-Weather Integrated](https://kkbughunter.github.io/zenith_hackathon_sk/) | Apr 23-3023 to May 20-2023 | [SK(self, sri kanth)](https://github.com/KKBUGHUNTER/zenith_hackathon_sk/graphs/contributors) | TechClub Hackathon (semester III (Web Development and flutter App)) | HTML, CSS, JS, FIREBASE, PYTHON, FLUTTER (IOT based)|
 | [ResumePc](https://kkbughunter.github.io/resumePc/) | Apr 9-2023 to xyz | [ResumePc(self, Boopathy raj, Govarthanan, Dinesh)](https://github.com/KKBUGHUNTER/resumePc/graphs/contributors) | placecomm request  | HTML, CSS, JS |
 | [TrackMee](https://github.com/KKBUGHUNTER/Flutter/tree/main/project/trackme)| july 1-2023 to xyz | self | Family Use | FLutter, Dart, Firebase | 
+
+# On going Project and Learning
+ - ### Kani & Co (Mobile and Web Project using Cloud) <!-- Interested People can join -->
+ - ### AWS Learning
 <!-- ## About
   - Interested: Flutter, Dart, IOT, and AWS.        
   - Advance Knowledge in: Flutter, python, Firebase.  
   - Beginner in: IOT and Security.     
   - More i Know: 
-    - Software: OOPs, Data Structure. and Oracle DBMS.  
+    - Lang and Technology: OOPs, Data Structure. and Oracle DBMS.  
     - Hardword:  Digital Principal.   
   - Learning: Google Cloud Platform(GCP)   -->
 
