@@ -7,10 +7,12 @@
   <tr>
     <th><a href="https://github.com/KKBUGHUNTER/Networks_Lab"><img src="https://github.com/KKBUGHUNTER/KKBUGHUNTER/assets/91019132/fe74df4f-aeed-4e9e-86e4-760cf4ae9634" alt="Networking" style="height: 200px; width:350px;"></a></th>
     <th><a href="https://github.com/KKBUGHUNTER/Microprocessors_Lab"><img src="https://github.com/KKBUGHUNTER/KKBUGHUNTER/assets/91019132/f55d801a-9844-4aa0-b432-6eaf820d3b4d" alt="Microprocessors" style="height: 200px; width:350px;"></a></th>
+    <th><a href="https://github.com/KKBUGHUNTER/Foundations_of_Artificial_Intelligence"><img src="https://github.com/KKBUGHUNTER/KKBUGHUNTER/assets/91019132/fd69b82e-dd04-406d-8eef-cd976b8dfa3c" alt="AI" style="height: 200px; width:350px;"></a></th>
   </tr>
   <tr>
     <td><a href="https://github.com/KKBUGHUNTER/Networks_Lab">Networks Lab</a></td>
     <td><a href="https://github.com/KKBUGHUNTER/Microprocessors_Lab">Microprocessors Lab</a></td>
+    <td><a href="https://github.com/KKBUGHUNTER/Foundations_of_Artificial_Intelligence">Foundations of Artificial Intelligence</a></td>
   </tr>
 </table>
 
