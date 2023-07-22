@@ -12,10 +12,6 @@
     <td><a href="https://github.com/KKBUGHUNTER/Networks_Lab">Networks Lab</a></td>
     <td><a href="https://github.com/KKBUGHUNTER/Microprocessors_Lab">Microprocessors Lab</a></td>
   </tr>
-  <tr>
-    <td>Project: loading...</td>
-    <td>PROJECT: loading...</td>
-  </tr>
 </table>
 
 
