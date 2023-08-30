@@ -21,16 +21,9 @@
 <br>
 <br>
 
-<div align="center">
- <h1>Workflow in GitHub</h1>
- <img src="https://github.com/KKBUGHUNTER/KKBUGHUNTER/blob/output/github-contribution-grid-snake.svg">
- <img src="https://github-readme-stats.vercel.app/api?username=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
- <img src="https://streak-stats.demolab.com/?user=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" /> <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKBUGHUNTER&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
-</div>
 
 
-<h1>My Experience</h1>
+<h1>Projects</h1>
 <table>
   <tr>
     <th>Project Name</th>
