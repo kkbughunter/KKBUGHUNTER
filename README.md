@@ -69,6 +69,7 @@
   </tr>
 </table>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkBUGHUNTER&size_weight=0.5&count_weight=0.5)
 
 <div align="center"> 
  <h2> Visitor Count 👇</h2> <br>
