@@ -82,7 +82,7 @@ Blogger: https://www.blogger.com/u/1/blog/posts/8348879035913339131
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YourUsername-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/karthikeyan-a-b2385123b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YourUsername-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/yourusername"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-YourUsername-blue?style=flat-square&logo=twitter"></a>
   <a href="https://yourwebsite.com/"><img alt="Website" src="https://img.shields.io/badge/Website-YourWebsite-9cf?style=flat-square"></a>
 </p>
