@@ -1,6 +1,9 @@
-<p align="center">
-<img src="https://github.com/KKBUGHUNTER/KKBUGHUNTER/assets/91019132/da6f55a4-daf0-42f2-86dd-75e834a861fc"/>  
-</p>
+  <p class="display: flex;
+    justify-content: center;
+    align-items: center;" align=center>
+<!--     <img src="https://avatars.githubusercontent.com/u/91019132?v=4" alt="Image 1" height=150> -->
+    <img src="https://github.com/KKBUGHUNTER/KKBUGHUNTER/assets/91019132/da6f55a4-daf0-42f2-86dd-75e834a861fc" alt="Image 2">
+  </p>
 
 <h1 align="center">Hi there, I'm Karthikeryan A👋</h1>
 
