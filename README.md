@@ -61,7 +61,8 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KKBUGHUNTER&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkBUGHUNTER&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkBUGHUNTER&hide=Jupyter%20Notebook&langs_count=9)
+
 
 <!-- ## 🌟 Featured Repositories
 
