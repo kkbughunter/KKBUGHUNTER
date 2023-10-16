@@ -1,8 +1,5 @@
 <p align="center">
-  
-![github-header-image](https://github.com/KKBUGHUNTER/KKBUGHUNTER/assets/91019132/da6f55a4-daf0-42f2-86dd-75e834a861fc)
-
-  
+<img src="https://github.com/KKBUGHUNTER/KKBUGHUNTER/assets/91019132/da6f55a4-daf0-42f2-86dd-75e834a861fc"/>  
 </p>
 
 <h1 align="center">Hi there, I'm Karthikeryan A👋</h1>
