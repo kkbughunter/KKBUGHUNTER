@@ -30,8 +30,8 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 | Cloud      | ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  |
 | Other      | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) <br> ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) <br> ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  |
 
-
-
+| more i learned in free time |  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|  
+|----|---|
 
 ### Current state
 | Status | Technology |
@@ -58,33 +58,26 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 - [Code Converter](https://github.com/KKBUGHUNTER/Project_Code_Converters_web): s a web-based tool for converting All kind of coded (Hex, BCD, Binary....) and vice versa, simplifying numeric data transformation.
 
 
-
-## 📫 Connect with Me
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-a-b2385123b/)
-<!-- - Portfolio Website: [Your Portfolio Website](Portfolio URL) -->
-
 ## 📈 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KKBUGHUNTER&show_icons=true)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkBUGHUNTER&hide=Jupyter%20Notebook&langs_count=9)
 
 
 <!-- ## 🌟 Featured Repositories
-
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=KKBUGHUNTER&repo=Repo1&show_owner=true)](Link to Repo 1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Repo2&show_owner=true)](Link to Repo 2)  -->
 
 ## 🤝 Open to Collaboration
 I'm open to collaboration on interesting projects. If you have a project idea or just want to chat, feel free to reach out!
+## 📫 Connect with Me
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-a-b2385123b/)
+<!-- - Portfolio Website: [Your Portfolio Website](Portfolio URL) -->
 
 <!-- ## 📝 Blog
-
 I occasionally write about tech and programming on my blog: [Link to Blog](Blog URL) -->
 
 Thanks for visiting my GitHub profile! 😊
-
-
 <div align="center"> 
  <h2> Visitor Count 👇</h2> <br>
  <img src="https://profile-counter.glitch.me/KKBUGHUNTER/count.svg"> <br>
