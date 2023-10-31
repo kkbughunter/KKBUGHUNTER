@@ -20,18 +20,26 @@
 
 I'm a Computer Science student passionate about technology, coding, and problem-solving. Welcome to my GitHub profile!
 
-## 🔧 Teck Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+## 🔧 MY Teck Stack
+| Technology | Web Tech Stack | Android Tech Stack |
+|------------|----------------|--------------------|
+| Front-End  | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%232779e8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> ![React Js](https://img.shields.io/badge/React%20Js-%2361dbfb.svg?style=for-the-badge&logo=react&logoColor=white)  <br> ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) |
+| Back -End  | ![Java](https://img.shields.io/badge/Java-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white) <br> ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  | ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
+| Database   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  |
+| API        | ![REST](https://img.shields.io/badge/REST-%235C5C5C.svg?style=for-the-badge) <br> ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%234A90E2.svg?style=for-the-badge) | ![REST](https://img.shields.io/badge/REST-%235C5C5C.svg?style=for-the-badge) <br> ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%234A90E2.svg?style=for-the-badge)  |
+| Cloud      | ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  |
+| Other      | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) <br> ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) <br> ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  |
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
-### Learning
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+### Current state
+| Status | Technology |
+|--------|------------|
+| Learning | ![React Js](https://img.shields.io/badge/React%20Js-%2361dbfb.svg?style=for-the-badge&logo=react&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![REST](https://img.shields.io/badge/REST-%235C5C5C.svg?style=for-the-badge) ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%234A90E2.svg?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| Working On | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| Learning Completed|![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%232779e8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  |
+| Later (Need Help) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)|
 ### 💼 Experience
 
 - **Software Tester Intern** at Vittae.money (3 Month)
@@ -49,15 +57,10 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 - [NGO Project](https://github.com/KKBUGHUNTER/Flutter): Developing a comprehensive Mobile App for Healthcare management system with modules for patient, doctor's, nursing, and pharmacy management, enabling efficient and organized healthcare services in rural area.
 - [Code Converter](https://github.com/KKBUGHUNTER/Project_Code_Converters_web): s a web-based tool for converting All kind of coded (Hex, BCD, Binary....) and vice versa, simplifying numeric data transformation.
 
-## 📚 Education
 
-- **Bachelor of Engineering (Computer Science)**
-  - Sri Sivasubramaniya Nadar (SSN)College of Engineering
-  - Graduation Year: `2021-2025`
 
 ## 📫 Connect with Me
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-a-b2385123b/)
- 
 <!-- - Portfolio Website: [Your Portfolio Website](Portfolio URL) -->
 
 ## 📈 GitHub Stats
@@ -73,7 +76,6 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Repo2&show_owner=true)](Link to Repo 2)  -->
 
 ## 🤝 Open to Collaboration
-
 I'm open to collaboration on interesting projects. If you have a project idea or just want to chat, feel free to reach out!
 
 <!-- ## 📝 Blog
