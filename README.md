@@ -19,7 +19,7 @@
 # Hello, I'm Karthikeyan 👋
 
 I'm a Computer Science student passionate about technology, coding, and problem-solving. Welcome to my GitHub profile!
-
+<!---
 ## 🔧 MY Teck Stack
 | Technology | Web Tech Stack | Android Tech Stack |
 |------------|----------------|--------------------|
@@ -32,7 +32,7 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 
 | more i learned in free time |  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|  
 |----|---|
-
+--->
 ### Current state
 | Status | Technology |
 |--------|------------|
