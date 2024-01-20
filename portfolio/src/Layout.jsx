@@ -1,7 +1,7 @@
-// src/Lauout.jsx
+// src/Layout.jsx
 import React from 'react';
 import Navbar from './Navbar';
-import pages from './pages/Home';
+
 const Layout = ({ children }) => {
   return (
     <div>
