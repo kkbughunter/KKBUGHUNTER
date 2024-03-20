@@ -2,10 +2,9 @@
     justify-content: center;
     align-items: center;" align=center>
 <!--     <img src="https://avatars.githubusercontent.com/u/91019132?v=4" alt="Image 1" height=150> -->
-    <img src="https://github.com/KKBUGHUNTER/KKBUGHUNTER/assets/91019132/da6f55a4-daf0-42f2-86dd-75e834a861fc" alt="Image 2">
   </p>
 
-<h1 align="center">Hi there, I'm Karthikeryan A👋</h1>
+<h1 align="center">Hi there, I'm Karthikeyan A👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthikeyan-a-b2385123b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-karthikeyan_A-blue?style=flat-square&logo=linkedin"></a>
