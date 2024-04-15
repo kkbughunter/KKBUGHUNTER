@@ -35,18 +35,22 @@ I'm a Computer Science student passionate about technology, coding, and problem-
 ### Current state
 | Status | Technology |
 |--------|------------|
-| Learning | ![Java](https://img.shields.io/badge/Java-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![REST](https://img.shields.io/badge/REST-%235C5C5C.svg?style=for-the-badge) ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%234A90E2.svg?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
-| Working On | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
-| Learning Completed|![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%232779e8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  |
-| Later (Need Help) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![React Js](https://img.shields.io/badge/React%20Js-%2361dbfb.svg?style=for-the-badge&logo=react&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| Learning | ![Java](https://img.shields.io/badge/Java-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![REST](https://img.shields.io/badge/REST-%235C5C5C.svg?style=for-the-badge) ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%234A90E2.svg?style=for-the-badge) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| Working On | ![Java](https://img.shields.io/badge/Java-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white) ![React Js](https://img.shields.io/badge/React%20Js-%2361dbfb.svg?style=for-the-badge&logo=react&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| Learning Completed|![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%232779e8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  |
+| Later (Need Help) | ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2343853D.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 
 <!--   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  -->
 
 ### 💼 Experience
 
-- **Software Tester Intern** at Vittae.money (3 Month)
-  - Worked on Vittae Mobile App and Web App testing the security level of the application.
-  - Collaborated with a team to User Accepted Testing(UAT).
+- **Software Tester Intern** at Vittae.money (3 Months)
+  - Conducted security testing on Vittae Mobile App and Web App.
+  - Collaborated with a team for User Acceptance Testing (UAT).
+
+- **Full Stack Flutter Developer** at Regenboog NGO
+  - Led software design, technical team, and development.
+  - Developed and deployed applications (End-to-End CI/CD).
   
 <!-- - **Teaching Assistant** at [Your University] (Month Year - Month Year)
   - Assisted professors in [courses or subjects you TAed for].
@@ -54,17 +58,11 @@ I'm a Computer Science student passionate about technology, coding, and problem-
   
 
 ## 🌱 Current Projects
+- [NGO Project](https://github.com/KKBUGHUNTER/Flutter): Developing a comprehensive Mobile App for Healthcare management system with modules for patient, doctor's, nursing, and pharmacy management, enabling efficient and organized healthcare services in rural areas.
+- [SSN Internship Portal Full-stack Web App](https://github.com/KKBUGHUNTER): A Full-stack Web Application for managing internships, built with Firebase, React, Node.js, and Express.js.
 
-- [Online Book Store](https://github.com/KKBUGHUNTER/Online_book_store): robust online book store to handle user authentication, authorization and access management.(React, TailwindCSS, Go, PostgreSQL)
-- [NGO Project](https://github.com/KKBUGHUNTER/Flutter): Developing a comprehensive Mobile App for Healthcare management system with modules for patient, doctor's, nursing, and pharmacy management, enabling efficient and organized healthcare services in rural area.
-- [Code Converter](https://github.com/KKBUGHUNTER/Project_Code_Converters_web): s a web-based tool for converting All kind of coded (Hex, BCD, Binary....) and vice versa, simplifying numeric data transformation.
-
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KKBUGHUNTER&show_icons=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkBUGHUNTER&hide=Jupyter%20Notebook&langs_count=9)
-
+## 📈 Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KKBUGHUNTER&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkBUGHUNTER&hide=Jupyter%20Notebook&langs_count=5)
 
 <!-- ## 🌟 Featured Repositories
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=KKBUGHUNTER&repo=Repo1&show_owner=true)](Link to Repo 1)
