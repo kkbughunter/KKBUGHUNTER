@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KKBUGHUNTER/static/css/main.f855e6bc.css",
+    "main.js": "/KKBUGHUNTER/static/js/main.99a0faf0.js",
+    "static/js/453.1407b060.chunk.js": "/KKBUGHUNTER/static/js/453.1407b060.chunk.js",
+    "index.html": "/KKBUGHUNTER/index.html",
+    "main.f855e6bc.css.map": "/KKBUGHUNTER/static/css/main.f855e6bc.css.map",
+    "main.99a0faf0.js.map": "/KKBUGHUNTER/static/js/main.99a0faf0.js.map",
+    "453.1407b060.chunk.js.map": "/KKBUGHUNTER/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.99a0faf0.js"
+  ]
+}
